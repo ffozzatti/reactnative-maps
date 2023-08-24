@@ -1,0 +1,1 @@
+Application developed with React Native that shows the real-time location of the device.
